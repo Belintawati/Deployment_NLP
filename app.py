@@ -88,7 +88,7 @@ if __name__ == '__main__':
 	model = load('model_spam_tfidf_nb.model')
 
 	# Run Flask di localhost 
-	app.run(http://127.0.0.1:4040 , debug=False)
+	app.run(http://127.0.0.1:5000 , debug=False)
 	
 	
 
